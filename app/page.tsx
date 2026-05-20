@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="hero-content">
           <div className="hero-copy">
-           
+            <div className="pill"><Camera size={16} /> Camera Based Gesture Recognition</div>
             <h1>Procedural 3D hand gesture app made with Next.js.</h1>
             <p>
               Detect hand signs from the camera and display a realistic coded 3D hand with clear meaning. No downloaded 3D hand model needed.
