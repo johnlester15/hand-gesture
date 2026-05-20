@@ -23,6 +23,8 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.6",
     "tailwindcss": "^4.3.0",
     "typescript": "latest"
   }
